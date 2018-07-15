@@ -1,0 +1,10 @@
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe.config
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.pdb
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.csprojResolveAssemblyReference.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Form1.resources
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Properties.Resources.resources
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.csproj.GenerateResource.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.csproj.CoreCompileInputs.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.exe
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.pdb

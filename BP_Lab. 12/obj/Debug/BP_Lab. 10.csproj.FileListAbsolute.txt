@@ -1,0 +1,24 @@
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe.config
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.pdb
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csprojResolveAssemblyReference.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Form1.resources
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Properties.Resources.resources
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Simpl_Calc.resources
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csproj.GenerateResource.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csproj.CoreCompileInputs.cache
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.exe
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.pdb
+F:\Универ\Програмирование\4 семестр\Выч. парктика 2\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Trigon_Calc.resources
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe.config
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.exe
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\bin\Debug\BP_Lab. 12.pdb
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Form1.resources
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Properties.Resources.resources
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Simpl_Calc.resources
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab._12.Trigon_Calc.resources
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.exe
+C:\Users\user\Desktop\BP_Lab. 12\BP_Lab. 12\obj\Debug\BP_Lab. 12.pdb
